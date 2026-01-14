@@ -13,7 +13,7 @@
 ---
 
 ### 🏆 Solved.ac Profile
-<img src="http://mazandi.herokuapp.com/api?handle=hj0543&theme=warm" />
+<img src="http://mazandi.herokuapp.com/api?handle=hj0543&theme=dark" />
 </a>
 
 ### 🟢 My 3D Contributions
