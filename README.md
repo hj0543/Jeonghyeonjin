@@ -38,7 +38,7 @@
 
 ### 📋 Solved.ac Profile
 <p align="left">
-  [![Solved.ac Profile](https://mazassumnida.vercel.app/api/v2/generate_badge?boj=사용자아이디)](https://solved.ac/사용자아이디)
+  [![Solved.ac Profile](https://mazassumnida.vercel.app/api/v2/generate_badge?boj=hj0543)](https://solved.ac/hj0543)
 </p>
 
 ---
