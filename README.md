@@ -34,18 +34,14 @@
 
 ## 📑 Ongoing Project
 
-1. 
-2. 
-3. 
-4. 
+1. EduTech (Academy LMS)
 
 ---
 
 ## 📑 Completed Project
 
 1. 
-2. 
-3. 
+
 
 ---
 
