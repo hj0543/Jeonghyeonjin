@@ -38,9 +38,9 @@
 
 ---
 
-### 🏆 Solved.ac Profile
-<img src="http://mazandi.herokuapp.com/api?handle=hj0543&theme=dark" />
+## Projects
 
+---
 ### 📫 Contact Me
 <a href="mailto:hj0543@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
