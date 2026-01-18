@@ -34,16 +34,7 @@
 
 ---
 
-## 📑 Ongoing Project
-
-1. EduTech (Academy LMS)
-
----
-
-## 📑 Completed Project
-
-1. 
-
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=hj0543&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
