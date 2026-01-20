@@ -34,7 +34,9 @@
 
 ---
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=hj0543&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact&theme=dracula)
 
 ---
 
