@@ -1,7 +1,7 @@
 # ☁️ Code Haneul
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Code%20Haneul&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=#87CEEB&height=200&section=header&text=Code%20Haneul&fontSize=70" />
 </div>
 
 ## 🎓 Introduction
