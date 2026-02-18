@@ -11,10 +11,31 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E91F7&width=435&lines=Simple+is+better+than+complex;Excuses+just+make+me+fall+behind.;Prove+Yourself!" alt="Typing SVG" />     
 </a>
 
-## Experience
 ---
 
+### **Experience**
 
+* **Mar 2019 – Jun 2021** | **First Lieutenant, Republic of Korea Army**
+  * Discharged upon completion of service (Honorably Discharged).
+    - Awarded Commendation for Excellence in Service for automating non-firing training records.
+    - Developed an Excel Macro-based automation tool that streamlined training data management, significantly reducing administrative workload.
+   
+    
+* **Jul 2021 – Apr 2023** | **Mathematics Instructor**
+  * Mathematics Academy (Private Institute).
+    
+
+* **Oct 2023 – Dec 2025** | **Team Lead / Head Instructor**
+  * Mathematics Academy (Private Institute).
+    - Built an automated academy management system using Google Apps Script to track student progress and operational data.
+    - Optimized administrative workflows by developing custom automation scripts within Google Sheets, improving data accuracy and team productivity.
+
+### **Education & Training**
+
+* **Jan 2026 – Present** | **Student, SSAFY (Samsung Software&AI Academy for Youth)** 15th Cohort.
+  * Developed a Discord bot for the "Algo Bandit" study group to streamline algorithm practice.
+    - Integrated Solved.ac API to provide personalized problem recommendations and real-time user statistics.
+    - Optimized study group operations by automating repetitive administrative tasks through custom bot commands.
 ---
 
 ## 🛠 Tech Stack
