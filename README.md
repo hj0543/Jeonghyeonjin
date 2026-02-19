@@ -13,29 +13,61 @@
 
 ---
 
-### **Experience**
+```python
+class Hyeonjin:
+    def __init__(self):
+        self.nickname = "Haneul"
+        self.email = "hj0543@gmail.com"
+        self.role = ""
+        self.language = ["Python"]
 
-* **Mar 2019 – Jun 2021** | **First Lieutenant, Republic of Korea Army**
-  * Discharged upon completion of service (Honorably Discharged).
-    - Awarded Commendation for Excellence in Service for automating non-firing training records.
-    - Developed an Excel Macro-based automation tool that streamlined training data management, significantly reducing administrative workload.
-   
-    
-* **Jul 2021 – Apr 2023** | **Mathematics Instructor**
-  * Mathematics Academy (Private Institute).
-    
+    def get_experience(self):
+        return [
+            {
+                "role": "Team Lead / Head Instructor",
+                "organization": "Mathematics Academy (Private Institute)",
+                "period": "Oct 2023 – Dec 2025",
+                "achievements": [
+                    "Built an automated academy management system using Google Apps Script to track student progress and operational data.",
+                    "Optimized administrative workflows by developing custom automation scripts within Google Sheets, improving data accuracy and team productivity."
+                ]
+            },
+            {
+                "role": "Mathematics Instructor",
+                "organization": "Mathematics Academy (Private Institute)",
+                "period": "Jul 2021 – Apr 2023",
+                "achievements": [
+                    "Delivered mathematics instruction and managed student progress."
+                ]
+            },
+            {
+                "role": "First Lieutenant",
+                "organization": "Republic of Korea Army",
+                "period": "Mar 2019 – Jun 2021",
+                "achievements": [
+                    "Discharged upon completion of service (Honorably Discharged).",
+                    "Awarded Commendation for Excellence in Service for automating non-firing training records.",
+                    "Developed an Excel Macro-based automation tool that streamlined training data management, significantly reducing administrative workload."
+                ]
+            }
+        ]
 
-* **Oct 2023 – Dec 2025** | **Team Lead / Head Instructor**
-  * Mathematics Academy (Private Institute).
-    - Built an automated academy management system using Google Apps Script to track student progress and operational data.
-    - Optimized administrative workflows by developing custom automation scripts within Google Sheets, improving data accuracy and team productivity.
+    def get_education_and_training(self):
+        return [
+            {
+                "program": "SSAFY (Samsung Software & AI Academy for Youth) 15th Cohort",
+                "period": "Jan 2026 – Present",
+                "achievements": [
+                    "Developed a Discord bot for the 'Algo Bandit' study group to streamline algorithm practice.",
+                    "Integrated Solved.ac API to provide personalized problem recommendations and real-time user statistics.",
+                    "Optimized study group operations by automating repetitive administrative tasks through custom bot commands."
+                ]
+            }
+        ]
 
-### **Education & Training**
-
-* **Jan 2026 – Present** | **Student, SSAFY (Samsung Software&AI Academy for Youth)** 15th Cohort.
-  * Developed a Discord bot for the "Algo Bandit" study group to streamline algorithm practice.
-    - Integrated Solved.ac API to provide personalized problem recommendations and real-time user statistics.
-    - Optimized study group operations by automating repetitive administrative tasks through custom bot commands.
+if __name__ == "__main__":
+    developer = Haneul()
+```
 ---
 
 ## 🛠 Tech Stack
