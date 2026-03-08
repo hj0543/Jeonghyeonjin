@@ -18,7 +18,7 @@
 
 ## 🛠 Tech Stack
 
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hj0543&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![My Skills](https://skillicons.dev/icons?i=py,html,css,js,bootstrap,git&theme=light)](https://skillicons.dev)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hj0543&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![My Skills](https://skillicons.dev/icons?i=py,html,css,bootstrap,git&theme=light)](https://skillicons.dev)
 
 ---
 
