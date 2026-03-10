@@ -13,6 +13,8 @@
 
 ---
 
+* **2026.02.19** 삼성 SW역량평가 IM 취득
+* **2026.03.06** 삼성 SW역량평가 A+ 취득
 
 ---
 
@@ -23,8 +25,6 @@
 ---
 
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hj0543&show_icons=true&theme=dracula) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hj0543)](https://solved.ac/hj0543)
-
-
 
 
 
