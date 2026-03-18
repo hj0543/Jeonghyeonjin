@@ -25,7 +25,7 @@
 - [2026.01 - ing] SSAFY 15th
   * **2026.02.19** 삼성 SW역량평가 IM 취득
   * **2026.03.06** 삼성 SW역량평가 A 취득
-  * Planning and development of Discord Algorithms study bot
+  * Planning and development of Discord Algorithms study bot (Tools : VSCode | Lang : Python | Server : Oracle)
 ### License
 - [Studying] 정보처리기사
 - [Studying] SQLD
