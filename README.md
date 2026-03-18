@@ -20,8 +20,11 @@
 
 ## 🛠 Tech Stack
 
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hj0543&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![My Skills](https://skillicons.dev/icons?i=py,html,css,bootstrap,git&theme=light)](https://skillicons.dev)
-
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hj0543&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+### Familiar with...
+[![My Skills](https://skillicons.dev/icons?i=py,git&theme=light)](https://skillicons.dev)
+### Now studying...
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,bootstrap,git,django,vue&theme=light)](https://skillicons.dev) 
 ---
 
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hj0543&show_icons=true&theme=dracula) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hj0543)](https://solved.ac/hj0543)
