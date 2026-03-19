@@ -13,16 +13,16 @@
 
 ---
 ### Career
-- [University] Major in New Materials Engineering
+- **[University] Major in New Materials Engineering**
 
-- [2019.03 - 2021.06] Army lieutenant general - ROTC 57th
+- **[2019.03 - 2021.06] Army lieutenant general - ROTC 57th**
   * Development of a Non-Fire Training Target Automation Program (Tools : Excel)
 
-- [2021.07 - 2025.12] Math Academy Instructor and Teamleader
+- **[2021.07 - 2025.12] Math Academy Instructor and Teamleader**
   * Team leader (2023.10 - 2025.12)
   * Planning and development of **academy management program, academy evaluation program** (Tools : Spreadsheet | Lang : JS(Apps script))
 
-- [2026.01 - ing] SSAFY 15th
+- **[2026.01 - ing] SSAFY 15th**
   * **2026.02.19** 삼성 SW역량평가 IM 취득
   * **2026.03.06** 삼성 SW역량평가 A 취득
   * Planning and development of **Discord Algorithms study bot** (Tools : VSCode | Lang : Python | Server : Oracle)
