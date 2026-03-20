@@ -31,7 +31,7 @@
 - [Studying] SQLD
 - [Studying] ADSP
 ---
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hj0543)](https://solved.ac/hj0543)
 ## 🛠 Tech Stack
 
 [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hj0543&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
@@ -41,8 +41,9 @@
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,bootstrap,git,django,vue,mysql&theme=light)](https://skillicons.dev) 
 ---
 
-
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hj0543&show_icons=true&theme=dracula) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hj0543)](https://solved.ac/hj0543)
+<div align="center">
+  <<img src="https://github-readme-streak-stats.herokuapp.com/?user=hj0543&theme=tokyonight&hide_border=true" width="90%" />
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hj0543&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
