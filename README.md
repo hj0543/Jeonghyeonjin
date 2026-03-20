@@ -30,8 +30,10 @@
 - [Studying] 정보처리기사
 - [Studying] SQLD
 - [Studying] ADSP
----
+- 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hj0543)](https://solved.ac/hj0543)
+
+---
 ## 🛠 Tech Stack
 
 [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hj0543&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
@@ -39,8 +41,9 @@
 [![My Skills](https://skillicons.dev/icons?i=py,git&theme=light)](https://skillicons.dev)
 ### Now studying...
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,bootstrap,git,django,vue,mysql&theme=light)](https://skillicons.dev) 
----
 
+---
+## GitHub Stats
 <div align="center">
   <<img src="https://github-readme-streak-stats.herokuapp.com/?user=hj0543&theme=tokyonight&hide_border=true" width="90%" />
 </div>
