@@ -41,9 +41,10 @@
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,bootstrap,git,django,vue,mysql&theme=light)](https://skillicons.dev) 
 ---
 
+
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hj0543&show_icons=true&theme=dracula) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hj0543)](https://solved.ac/hj0543)
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hj0543&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 ## 🌌 My Grass Garden
