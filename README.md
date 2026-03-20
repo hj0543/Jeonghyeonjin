@@ -29,10 +29,10 @@
 ### Projects
   * **Discord Algorithms study bot** (Contributions : Solo | Tools : VSCode | Lang : Python | Server : Oracle)
 ### License
-- [Studying] 정보처리기사
-- [Studying] SQLD
-- [Studying] ADSP
-- 
+- ~~[Studying] 정보처리기사~~
+- ~~[Studying] SQLD~~
+- ~~[Studying] ADSP~~
+- ~~[Studying] 빅데이터분석기사~~
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hj0543)](https://solved.ac/hj0543)
 
 ---
