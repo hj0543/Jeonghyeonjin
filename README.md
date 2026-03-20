@@ -13,7 +13,7 @@
 
 ---
 ### Career
-- **[University] Major in New Materials Engineering**
+- **[University] Major : Materials Engineering**
 
 - **[2019.03 - 2021.06] Army lieutenant general - ROTC 57th**
   * Development of a Non-Fire Training Target Automation Program (Tools : Excel)
