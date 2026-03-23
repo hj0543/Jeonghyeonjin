@@ -31,22 +31,25 @@ class DeveloperResume:
     def get_career(self) -> List[Dict]:
         return [
             {
-                "Period": (2026.01, "Present"),    # 숫자와 문자열을 튜플()로 묶어 색상 변화
+                "Period": (2026.01, "Present"),
                 "Organization": "SSAFY 15th",
-                "Is_Current": True,                # True/False는 다른 색으로 표시됩니다.
+                "Is_Current": True,
                 "Details": [
                     (2026.02, 'SAMSUNG SW역량평가 IM'),
                     (2026.03, 'SAMSUNG SW역량평가 A')
                 ]
+                "Projects": "👉 Please refer to the 'Side Projects' section below."
             },
             {
                 "Period": (2021.07, 2025.12),
                 "Organization": "Math Academy",
                 "Role": "Instructor and Teamleader",
                 "Is_Current": False,
-                "Tech_Stack": {
-                    "Tools": "Spreadsheet", 
-                    "Lang": "JS (Apps script)"
+                "Developed": {
+                    "Product": "Academy Operation & Evaluation System",
+                    "Tech_Stack": ["Google Sheets", "Apps Script"],
+                    "Impact": "Automated manual workflows",
+                    "Is_Automated": True
                 }
             },
             {
@@ -54,7 +57,12 @@ class DeveloperResume:
                 "Organization": "Republic of Korea Army",
                 "Role": "First Lieutenant (ROTC 57th)",
                 "Is_Current": False,
-                "Tech_Stack": {"Tools": "Excel"}
+                "Developed": {
+                    "Project": "Non-Fire Training Target Automation Program",
+                    "Tech_Stack": ["Excel", "VBA", "Formulas"],
+                    "Key_Role": "Data Aggregation & Scoring Automation",
+                    "Efficiency_Increased": True
+                }
             }
         ]
 
@@ -62,20 +70,27 @@ class DeveloperResume:
     # 2. SIDE PROJECTS
     # ==========================================
     def get_projects(self) -> Dict:
-        return {
-            "Project_Name": "Discord Algorithms study bot",
-            "Target_Group": "Algo Bandit",
-            "Bot_Name": "BearBot",
-            "Solo_Project": True,
-            "Tech_Stack": ["Python", "Oracle", "VSCode"] # 리스트[]를 써서 간결하게 표현
-        }
+            return {
+                "Discord_Algorithm_Study_Bot": {
+                    "Bot_Name": "BearBot",
+                    "Target_Group": "Algo Bandit",
+                    "Role": "Solo Developer",
+                    "Tech_Stack": ["Python", "Oracle", "VSCode"],
+                    "Key_Features": [
+                        "Algorithm problem solving tracker",
+                        "Customized UI and profile management"
+                    ],
+                    "Is_Deployed": True
+                }
+                # 추후 다른 프로젝트 추가 공간
+            }
 
     # ==========================================
     # 3. CERTIFICATIONS
     # ==========================================
     def get_license(self) -> Dict:
         return {
-            "License": None,                       # None은 특별한 색으로 강조됩니다.
+            "License": None,
             "Studying": ["SQLD", "정보처리기사", "ADsP", "빅데이터분석기사"]
         }
 ```
