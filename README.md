@@ -72,7 +72,7 @@ class DeveloperResume:
     def get_projects(self) -> Dict:
             return {
                 "Discord_Algorithm_Study_Bot": {
-                    "Bot_Name": "BearBot",
+                    "Bot_Name": "AlgoBot",
                     "Target_Group": "Algo Bandit",
                     "Role": "Solo Developer",
                     "Tech_Stack": ["Python", "Oracle", "VSCode"],
