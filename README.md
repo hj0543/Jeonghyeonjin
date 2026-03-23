@@ -12,88 +12,63 @@
 </a>
 
 ---
+
+## 👨‍💻 Developer Profile: `Jeong Hyeonjin`
+
 ```python
-from typing import List, Dict, Optional, Union
-
-class DeveloperResume:
-    
-    @property
-    def name(self) -> str:
-        return "Jeong Hyeonjin"
-
-    @property
-    def major(self) -> str:
-        return "Materials Engineering"
-
-    # ==========================================
-    # 1. WORK EXPERIENCE & MILITARY SERVICE
-    # ==========================================
-    def get_career(self) -> List[Dict]:
-        return [
-            {
-                "Period": (2026.01, "Present"),
-                "Organization": "SSAFY 15th",
-                "Is_Current": True,
-                "Details": [
-                    (2026.02, 'SAMSUNG SW역량평가 IM'),
-                    (2026.03, 'SAMSUNG SW역량평가 A')
-                ]
-                "Projects": "👉 Please refer to the 'Side Projects' section below."
-            },
-            {
-                "Period": (2021.07, 2025.12),
-                "Organization": "Math Academy",
-                "Role": "Instructor and Teamleader",
-                "Is_Current": False,
-                "Developed": {
-                    "Product": "Academy Operation & Evaluation System",
-                    "Tech_Stack": ["Google Sheets", "Apps Script"],
-                    "Impact": "Automated manual workflows",
-                    "Is_Automated": True
-                }
-            },
-            {
-                "Period": (2019.03, 2021.06),
-                "Organization": "Republic of Korea Army",
-                "Role": "First Lieutenant (ROTC 57th)",
-                "Is_Current": False,
-                "Developed": {
-                    "Project": "Non-Fire Training Target Automation Program",
-                    "Tech_Stack": ["Excel", "VBA", "Formulas"],
-                    "Key_Role": "Data Aggregation & Scoring Automation",
-                    "Efficiency_Increased": True
-                }
-            }
-        ]
-
-    # ==========================================
-    # 2. SIDE PROJECTS
-    # ==========================================
-    def get_projects(self) -> Dict:
-            return {
-                "Discord_Algorithm_Study_Bot": {
-                    "Bot_Name": "AlgoBot",
-                    "Target_Group": "Algo Bandit",
-                    "Role": "Solo Developer",
-                    "Tech_Stack": ["Python", "Oracle", "VSCode"],
-                    "Key_Features": [
-                        "Algorithm problem solving tracker",
-                        "Customized UI and profile management"
-                    ],
-                    "Is_Deployed": True
-                }
-                # 추후 다른 프로젝트 추가 공간
-            }
-
-    # ==========================================
-    # 3. CERTIFICATIONS
-    # ==========================================
-    def get_license(self) -> Dict:
-        return {
-            "License": None,
-            "Studying": ["SQLD", "정보처리기사", "ADsP", "빅데이터분석기사"]
-        }
+class Developer:
+    def __init__(self):
+        self.major = "Materials Engineering"
+        self.current = "SSAFY 15th (Samsung Software Academy for Youth)"
+        self.location = "South Korea"
+        self.goal = "Problem Solver through Automation & Data"
 ```
+
+### 🎖️ Professional Experience
+#### **[2026.01 - ing]** SSAFY 15th
+> 개발자로서의 첫 걸음
+* **알고리즘 스터디 디스코드 봇 개발**
+    * `Stack`: Python, Oracle server
+    * `Result`: 일일 수작업 자동화 및 문제 검색 시간 단축(평균 10초 -> 1초)
+
+#### **[2021.07 - 2025.12] Math Academy | Team Leader**
+> 학원 현장의 비효율을 코드로 해결
+* **Academy Management System:** 구글 스프레드시트 기반 관리/평가 프로그램 기획 및 개발
+    * `Stack`: JavaScript (Google Apps Script)
+    * `Result`: 수작업 업무 프로세스 자동화를 통한 운영 효율성 극대화
+* **Leadership**: 강사 및 운영팀 관리 (2023.10 - 2025.12)
+
+#### **[2019.03 - 2021.06] ROTC 57th | Army Officer (1st Lt.)**
+> 군 조직 내 업무 자동화
+* **Non-Fire Training Target Automation:** 비사격 훈련 타겟 자동화 프로그램 개발
+    * `Stack`: Excel (VBA/Formula)
+    * `Result`: 훈련 시간 단축 및 정확도 향상
+
+---
+
+### 🚀 Projects & Tech Milestones
+
+* **Discord Algorithm Study Bot** (Solo Project)
+    * **Description**: 스터디원들의 알고리즘 문제 풀이 현황을 관리하는 봇
+    * **Tech Stack**: `Python`, `VS Code`, `Oracle Server`
+* **SAMSUNG SW Certificates**
+    * `2026.03.06`: **SAMSUNG SW Competency Test - Grade A** 🏆
+    * `2026.02.19`: SAMSUNG SW Competency Test - Grade IM
+
+---
+
+### 📚 Continuous Learning (Licenses)
+
+```json
+{
+  "Certified": [],
+  "In_Progress": {
+    "Data": ["SQLD", "ADsP", "빅데이터분석기사"],
+    "General": ["정보처리기사"]
+  }
+}
+```
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hj0543)](https://solved.ac/hj0543)
 
 ---
