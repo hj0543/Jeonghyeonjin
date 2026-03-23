@@ -12,28 +12,73 @@
 </a>
 
 ---
-### Career
-- **[University] Major : Materials Engineering**
+```python
+from typing import List, Dict, Optional, Union
 
-- **[2019.03 - 2021.06] Army lieutenant general - ROTC 57th**
-  * Development of a Non-Fire Training Target Automation Program (Tools : Excel)
+class DeveloperResume:
+    
+    @property
+    def name(self) -> str:
+        return "Jeong Hyeonjin"
 
-- **[2021.07 - 2025.12] Math Academy Instructor and Teamleader**
-  * Team leader (2023.10 - 2025.12)
-  * Planning and development of **academy management program, academy evaluation program** (Tools : Spreadsheet | Lang : JS(Apps script))
+    @property
+    def major(self) -> str:
+        return "Materials Engineering"
 
-- **[2026.01 - ing] SSAFY 15th**
-  * **2026.02.19** SAMSUNG SW역량평가 IM
-  * **2026.03.06** SAMSUNG SW역량평가 A
- 
-### Projects
-  * **Discord Algorithms study bot** (Contributions : Solo | Tools : VSCode | Lang : Python | Server : Oracle)
-### License
-- ~~[Studying] 정보처리기사~~
-- ~~[Studying] SQLD~~
-- ~~[Studying] ADSP~~
-- ~~[Studying] 빅데이터분석기사~~
+    # ==========================================
+    # 1. WORK EXPERIENCE & MILITARY SERVICE
+    # ==========================================
+    def get_career(self) -> List[Dict]:
+        return [
+            {
+                "Period": (2026.01, "Present"),    # 숫자와 문자열을 튜플()로 묶어 색상 변화
+                "Organization": "SSAFY 15th",
+                "Is_Current": True,                # True/False는 다른 색으로 표시됩니다.
+                "Details": [
+                    (2026.02, 'SAMSUNG SW역량평가 IM'),
+                    (2026.03, 'SAMSUNG SW역량평가 A')
+                ]
+            },
+            {
+                "Period": (2021.07, 2025.12),
+                "Organization": "Math Academy",
+                "Role": "Instructor and Teamleader",
+                "Is_Current": False,
+                "Tech_Stack": {
+                    "Tools": "Spreadsheet", 
+                    "Lang": "JS (Apps script)"
+                }
+            },
+            {
+                "Period": (2019.03, 2021.06),
+                "Organization": "Republic of Korea Army",
+                "Role": "First Lieutenant (ROTC 57th)",
+                "Is_Current": False,
+                "Tech_Stack": {"Tools": "Excel"}
+            }
+        ]
 
+    # ==========================================
+    # 2. SIDE PROJECTS
+    # ==========================================
+    def get_projects(self) -> Dict:
+        return {
+            "Project_Name": "Discord Algorithms study bot",
+            "Target_Group": "Algo Bandit",
+            "Bot_Name": "BearBot",
+            "Solo_Project": True,
+            "Tech_Stack": ["Python", "Oracle", "VSCode"] # 리스트[]를 써서 간결하게 표현
+        }
+
+    # ==========================================
+    # 3. CERTIFICATIONS
+    # ==========================================
+    def get_license(self) -> Dict:
+        return {
+            "License": None,                       # None은 특별한 색으로 강조됩니다.
+            "Studying": ["SQLD", "정보처리기사", "ADsP", "빅데이터분석기사"]
+        }
+```
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hj0543)](https://solved.ac/hj0543)
 
 ---
