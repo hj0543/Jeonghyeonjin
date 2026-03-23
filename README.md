@@ -23,8 +23,8 @@
   * Planning and development of **academy management program, academy evaluation program** (Tools : Spreadsheet | Lang : JS(Apps script))
 
 - **[2026.01 - ing] SSAFY 15th**
-  * **2026.02.19** 삼성 SW역량평가 IM 취득
-  * **2026.03.06** 삼성 SW역량평가 A 취득
+  * **2026.02.19** SAMSUNG SW역량평가 IM
+  * **2026.03.06** SAMSUNG SW역량평가 A
  
 ### Projects
   * **Discord Algorithms study bot** (Contributions : Solo | Tools : VSCode | Lang : Python | Server : Oracle)
