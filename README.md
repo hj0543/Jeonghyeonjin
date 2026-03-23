@@ -20,8 +20,6 @@ class Developer:
     def __init__(self):
         self.major = "Materials Engineering"
         self.current = "SSAFY 15th (Samsung Software Academy for Youth)"
-        self.location = "South Korea"
-        self.goal = "Problem Solver through Automation & Data"
 ```
 
 ### 🎖️ Professional Experience
