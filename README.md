@@ -28,6 +28,9 @@ class Developer:
 * **알고리즘 스터디 디스코드 봇 개발**
     * `Stack`: Python, Oracle server
     * `Result`: 일일 수작업 자동화 및 문제 검색 시간 단축(평균 10초 -> 1초)
+* **API기반 데이터로 분석한 게임 경제**
+    * `Stack`: Python, django, html, css, js
+    * `Result`: - ing
 
 #### **[2021.07 - 2025.12] Math Academy | Team Leader**
 > 학원 현장의 비효율을 코드로 해결
@@ -66,25 +69,34 @@ class Developer:
   }
 }
 ```
-### Solved.ac Profile
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hj0543)](https://solved.ac/hj0543)
-
----
-## 🛠 Tech Stack
-
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hj0543&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
-### Familiar with...
-[![My Skills](https://skillicons.dev/icons?i=py,git&theme=light)](https://skillicons.dev)
-### Now studying...
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,bootstrap,git,django,vue,mysql&theme=light)](https://skillicons.dev) 
-
----
-## GitHub Stats
 <div align="center">
-  <<img src="https://github-readme-streak-stats.herokuapp.com/?user=hj0543&theme=tokyonight&hide_border=true" width="90%" />
+  
+  <h2> Solved.ac Profile</h2>
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hj0543)](https://solved.ac/hj0543)
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hj0543&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
+<div align="center">
+  <h2> 🛠 Tech Stack</h2>
+
+  [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hj0543&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+  <h2> Familiar with...</h2>
+  
+  [![My Skills](https://skillicons.dev/icons?i=py,html,css,git&theme=light)](https://skillicons.dev)
+  <h2> Now studying...</h2>
+  
+  [![My Skills](https://skillicons.dev/icons?i=java,js,bootstrap,django,vue,mysql&theme=light)](https://skillicons.dev) 
+</div>
+
+---
+
+<div align="center">
+  <h2> GitHub Stats</h2>
+  
+  ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hj0543&show_icons=true&theme=dracula)
+</div>
 
 ---
 ## 🌌 My Grass Garden
