@@ -25,10 +25,10 @@ class Developer:
 ### 🎖️ Professional Experience
 #### **[2026.01 - ing]** SSAFY 15th
 > 개발자로서의 첫 걸음
-* **알고리즘 스터디 디스코드 봇 개발**
+* **알고리즘 스터디 디스코드 봇 개발(개선 중)**
     * `Stack`: Python, Oracle server
-    * `Result`: 일일 수작업 자동화 및 문제 검색 시간 단축(평균 10초 -> 1초)
-* **API기반 데이터로 분석한 게임 경제**
+    * `Result`: 일일 문제선정 수작업 시간 단축(평균 2분 -> 30초)
+* **API기반 데이터로 분석한 게임 경제(개발 중)**
     * `Stack`: Python, django, html, css, js
     * `Result`: - ing
 
@@ -36,14 +36,14 @@ class Developer:
 > 학원 현장의 비효율을 코드로 해결
 * **Academy Management System:** 구글 스프레드시트 기반 관리/평가 프로그램 기획 및 개발
     * `Stack`: JavaScript (Google Apps Script)
-    * `Result`: 일일업무 시간단축(20분 -> 2~5분(개인별 슥련도 편차)), 평가 프로그램 도입 후 업무 시간 단축(약 3시간 -> 30분)
+    * `Result`: 일일 업무시간 단축(20분 -> 2~5분(개인별 슥련도 편차)), 평가 프로그램 도입 후 업무시간 단축(약 3시간 -> 30분)
 * **Leadership**: 강사 및 운영팀 관리 (2023.10 - 2025.12)
 
 #### **[2019.03 - 2021.06] ROTC 57th | Army Officer (1st Lt.)**
 > 군 조직 내 업무 자동화
 * **Non-Fire Training Target Automation:** 비사격 훈련 타겟 자동화 프로그램 개발
     * `Stack`: Excel (VBA/Formula)
-    * `Result`: 비사격 훈련시간(5분 -> 30초)
+    * `Result`: 비사격 훈련시간 단축(5분 -> 30초)
 
 ---
 
