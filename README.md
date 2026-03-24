@@ -36,14 +36,14 @@ class Developer:
 > 학원 현장의 비효율을 코드로 해결
 * **Academy Management System:** 구글 스프레드시트 기반 관리/평가 프로그램 기획 및 개발
     * `Stack`: JavaScript (Google Apps Script)
-    * `Result`: 수작업 업무 프로세스 자동화를 통한 운영 효율성 극대화
+    * `Result`: 일일업무 시간단축(20분 -> 2~5분(개인별 슥련도 편차)), 평가 프로그램 도입 후 업무 시간 단축(약 3시간 -> 30분)
 * **Leadership**: 강사 및 운영팀 관리 (2023.10 - 2025.12)
 
 #### **[2019.03 - 2021.06] ROTC 57th | Army Officer (1st Lt.)**
 > 군 조직 내 업무 자동화
 * **Non-Fire Training Target Automation:** 비사격 훈련 타겟 자동화 프로그램 개발
     * `Stack`: Excel (VBA/Formula)
-    * `Result`: 훈련 시간 단축 및 정확도 향상
+    * `Result`: 비사격 훈련시간(5분 -> 30초)
 
 ---
 
