@@ -87,7 +87,7 @@ class Developer:
   [![My Skills](https://skillicons.dev/icons?i=py,html,css,bootstrap,git&theme=light)](https://skillicons.dev)
   <h2> Now studying...</h2>
   
-  [![My Skills](https://skillicons.dev/icons?i=java,js,django,vue,mysql&theme=light)](https://skillicons.dev) 
+  [![My Skills](https://skillicons.dev/icons?i=java,js,django,vue,mysql,react,ts&theme=light)](https://skillicons.dev) 
 </div>
 
 ---
