@@ -28,6 +28,11 @@ class Developer:
 * **알고리즘 스터디 디스코드 봇 개발(개선 중)**
     * `Stack`: Python, Oracle server
     * `Result`: 일일 문제선정 수작업 시간 단축(평균 2분 -> 30초)
+* **알고리즘 스터디 웹 페이지(개발 중)**
+    * `Stack`: Python, html, node.js
+      * Frontend: Vue 3, Vite, Vue Router, Pinia, Tailwind CSS
+      * Backend: FastAPI
+    * `Result`: - ing
 * **API기반 데이터로 분석한 게임 경제(개발 중)**
     * `Stack`: Python, django, html, css, js
     * `Result`: - ing
@@ -81,12 +86,14 @@ class Developer:
 ---
 
 <div align="center">
-  <h2> 🛠 Tech Stack</h2>
+  <h1> 🛠 Tech Stack</h1>
 
-  [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hj0543&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
   <h2> Familiar with...</h2>
   
   [![My Skills](https://skillicons.dev/icons?i=py,html,css,bootstrap,git&theme=light)](https://skillicons.dev)
+
+---
+  
   <h2> Now studying...</h2>
   
   [![My Skills](https://skillicons.dev/icons?i=java,js,django,vue,mysql,react,ts&theme=light)](https://skillicons.dev) 
@@ -95,8 +102,7 @@ class Developer:
 ---
 
 <div align="center">
-  <h2> GitHub Stats</h2>
-  
+
   ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hj0543&show_icons=true&theme=dracula)
 </div>
 
