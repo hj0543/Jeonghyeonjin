@@ -53,7 +53,7 @@ class Developer:
     * **Description**: 스터디원들의 알고리즘 문제 풀이 현황을 관리하는 봇
     * **Tech Stack**: `Python`, `VS Code`, `Oracle Server`
 * **SAMSUNG SW Certificates**
-    * `2026.03.06`: **SAMSUNG SW Competency Test - Grade A (python)** 🏆
+    * `2026.03.06`: **SAMSUNG SW Competency Test - Grade A+ (python)** 🏆
     * `2026.02.19`: SAMSUNG SW Competency Test - Grade IM (python)
 
 ---
