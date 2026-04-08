@@ -70,7 +70,7 @@ class Developer:
   "Certified": [],
   "In_Progress": {
     "Data": ["SQLD", "ADsP", "빅데이터분석기사"],
-    "General": ["정보처리기사"]
+    "General": ["정보처리기사"],
     "AI": ["AICE"]
   }
 }
@@ -86,17 +86,21 @@ class Developer:
 ---
 
 <div align="center">
-  <h1> 🛠 Tech Stack</h1>
+  <h1>🛠 Tech Stack</h1>
 
-  <h2> Familiar with...</h2>
-  
-  [![My Skills](https://skillicons.dev/icons?i=py,html,css,bootstrap,git&theme=light)](https://skillicons.dev)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hj0543&layout=compact&theme=tokyonight&hide_border=true" />
 
----
-  
-  <h2> Now studying...</h2>
-  
-  [![My Skills](https://skillicons.dev/icons?i=java,js,django,vue,mysql,react,ts&theme=light)](https://skillicons.dev) 
+  <h2>Familiar with...</h2>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,html,css,bootstrap,git&theme=light" />
+  </a>
+
+  <h2>Now studying...</h2>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,django,vue,mysql,react,ts&theme=light" />
+  </a>
 </div>
 
 ---
