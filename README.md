@@ -33,7 +33,7 @@ class Developer:
       * Frontend: Vue 3, Vite, Vue Router, Pinia, Tailwind CSS
       * Backend: FastAPI
     * `Result`: - ing
-* **API기반 데이터로 분석한 게임 경제(개발 중)**
+* **API기반 데이터로 분석한 게임 경제(계획 중)**
     * `Stack`: Python, django, html, css, js
     * `Result`: - ing
 
