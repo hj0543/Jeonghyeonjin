@@ -76,13 +76,6 @@ class Developer:
 }
 ```
 
-<div align="center">
-  
-  <h2> Solved.ac Profile</h2>
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hj0543)](https://solved.ac/hj0543) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hj0543&theme=dark)
-</div>
-
 ---
 
 <div align="center">
