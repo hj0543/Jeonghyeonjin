@@ -25,17 +25,10 @@ class Developer:
 ### 🎖️ Professional Experience
 #### **[2026.01 - ing]** SSAFY 15th
 > 개발자로서의 첫 걸음
-* **알고리즘 스터디 디스코드 봇 개발(개선 중)**
+* **알고리즘 스터디 디스코드 봇 개발**
     * `Stack`: Python, Oracle server
     * `Result`: 일일 문제선정 수작업 시간 단축(평균 2분 -> 30초)
-* **알고리즘 스터디 웹 페이지(개발 중)**
-    * `Stack`: Python, html, node.js
-      * Frontend: Vue 3, Vite, Vue Router, Pinia, Tailwind CSS
-      * Backend: FastAPI
-    * `Result`: - ing
-* **API기반 데이터로 분석한 게임 경제(계획 중)**
-    * `Stack`: Python, django, html, css, js
-    * `Result`: - ing
+
 
 #### **[2021.07 - 2025.12] Math Academy | Team Leader**
 > 학원 현장의 비효율을 코드로 해결
@@ -86,13 +79,13 @@ class Developer:
   <h2>Familiar with...</h2>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,bootstrap,git&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,,git&theme=light" />
   </a>
 
   <h2>Now studying...</h2>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,django,vue,mysql,react,ts&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,java,js,django,vue&theme=light" />
   </a>
 </div>
 
