@@ -62,7 +62,7 @@ class Developer:
   "Certified": [],
   "In_Progress": {
     "Data": ["SQLD", "ADsP", "빅데이터분석기사"],
-    "General": ["정보처리기사"],
+    "General": ["정보처리기사(필기 합격)"],
     "AI": ["AICE"]
   }
 }
