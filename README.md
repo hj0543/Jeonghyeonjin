@@ -25,6 +25,12 @@ class Developer:
 ### 🎖️ Professional Experience
 
 #### **[2026.01 - ing]** SSAFY 15th
+🏆 **수상내역**
+* -
+🎖️ **활동내역**
+* Monthly Member(1월, 3월)
+* 
+
 * **공공데이터포털·SGIS·Kakao API 기반 개인 맞춤형 부동산 서비스 개발**(2026.05 - ing)
     * `Tech Stack`: Vue.js, JavaScript, Pinia, Axios, Python, Django REST Framework, SQLite, Kakao Map API, OpenAI API, Git, GitHub, Figma
     * `Result`: 일일 문제선정 수작업 시간 단축(평균 2분 -> 30초)
