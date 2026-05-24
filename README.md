@@ -23,13 +23,20 @@ class Developer:
 ```
 
 ### 🎖️ Professional Experience
-#### **[2026.01 - ing]** SSAFY 15th
+#### **[2026.05 - ing]** SSAFY 15th
+> 공공데이터포털·SGIS·Kakao API 기반 개인 맞춤형 부동산 서비스 개발
+* **개인 맞춤형 부동산 서비스 개발**
+    * `Tech Stack`: Vue.js, JavaScript, Pinia, Axios, Python, Django REST Framework, SQLite, Kakao Map API, OpenAI API, Git, GitHub, Figma
+    * `Result`: 일일 문제선정 수작업 시간 단축(평균 2분 -> 30초)
+
+
+#### **[2026.01 - 2026.03]** SSAFY 15th
 > 개발자로서의 첫 걸음
 * **알고리즘 스터디 디스코드 봇 개발**
     * `Stack`: Python, Oracle server
     * `Result`: 일일 문제선정 수작업 시간 단축(평균 2분 -> 30초)
 
-
+      
 #### **[2021.07 - 2025.12] Math Academy | Team Leader**
 > 학원 현장의 비효율을 코드로 해결
 * **Academy Management System:** 구글 스프레드시트 기반 관리/평가 프로그램 기획 및 개발
