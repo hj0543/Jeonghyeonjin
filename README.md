@@ -31,15 +31,7 @@ class Developer:
 * Monthly Member(1월, 3월)
 * 
 
-* **공공데이터포털·SGIS·Kakao API 기반 개인 맞춤형 부동산 서비스 개발**(2026.05 - ing)
-    * `Tech Stack`: Vue.js, JavaScript, Pinia, Axios, Python, Django REST Framework, SQLite, Kakao Map API, OpenAI API, Git, GitHub, Figma
-    * `Result`: 일일 문제선정 수작업 시간 단축(평균 2분 -> 30초)
 
-* **알고리즘 스터디 디스코드 봇 개발** (2026.01 - 2026.03)
-    * `Stack`: Python, Oracle server
-    * `Result`: 일일 문제선정 수작업 시간 단축(평균 2분 -> 30초)
-
-      
 #### **[2021.07 - 2025.12] Math Academy | Team Leader**
 > 학원 현장의 비효율을 코드로 해결
 * **Academy Management System:** 구글 스프레드시트 기반 관리/평가 프로그램 기획 및 개발
@@ -49,14 +41,21 @@ class Developer:
 #### **[2019.03 - 2021.06] ROTC 57th | Army Officer (1st Lt.)**
 > 군 조직 내 업무 자동화
 * **Non-Fire Training Target Automation:** 비사격 훈련 타겟 자동화 프로그램 개발
+🏆 **수상내역**
+* 근무 유공 표창(2회)
+* 경계 작전 유공 표창
 
 ---
 
 ### 🚀 Projects & Tech Milestones
 
-* **Discord Algorithm Study Bot** (Solo Project)
-    * **Description**: 스터디원들의 알고리즘 문제 풀이 현황을 관리하는 봇
-    * **Tech Stack**: `Python`, `VS Code`, `Oracle Server`
+* **공공데이터포털·SGIS·Kakao API 기반 개인 맞춤형 부동산 서비스 개발**(2026.05 - ing)
+    * `Tech Stack`: Vue.js, JavaScript, Pinia, Axios, Python, Django REST Framework, SQLite, Kakao Map API, OpenAI API, Git, GitHub, Figma
+    * `Result`: -
+
+* **알고리즘 스터디 디스코드 봇 개발** (2026.01 - 2026.03)
+    * `Stack`: Python, Oracle server
+    * `Result`: 일일 문제선정 수작업 시간 단축(평균 2분 -> 30초)
 * **SAMSUNG SW Certificates**
     * `2026.03.06`: **SAMSUNG SW Competency Test - Grade A+ (python)** 🏆
 
