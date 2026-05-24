@@ -25,7 +25,7 @@ class Developer:
 ### 🎖️ Professional Experience
 
 #### **[2026.01 - ing]** SSAFY 15th
-> 개발자로서의 첫 걸음
+> 개발자로서의 첫 걸음   
 🏆 **수상내역**
 * -
 🎖️ **활동내역**
