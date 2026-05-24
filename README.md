@@ -40,7 +40,9 @@ class Developer:
 
 #### **[2019.03 - 2021.06] ROTC 57th | Army Officer (1st Lt.)**
 > 군 조직 내 업무 자동화
-* **Non-Fire Training Target Automation:** 비사격 훈련 타겟 자동화 프로그램 개발   
+* **Non-Fire Training Target Automation:** 비사격 훈련 타겟 자동화 프로그램 개발(Excel)
+* **Targeting simulation:** 적 위치 입력값에 따른 표적 추천 프로그램 개발(Excel)
+
 🏆 **수상내역**
 * 근무 유공 표창(2회)
 * 경계 작전 유공 표창
