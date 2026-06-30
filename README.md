@@ -53,12 +53,12 @@ class Developer:
 
 ### 🚀 Projects & Tech Milestones
 
-* **공공데이터포털·SGIS·Kakao API 기반 개인 맞춤형 부동산 서비스 개발**(2026.05 - ing)
-    * `Tech Stack`: Vue.js, JavaScript, Pinia, Axios, Python, Django REST Framework, SQLite, Kakao Map API, OpenAI API, Git, GitHub, Figma
+* **개인 맞춤형 부동산 서비스 개발**(2026.05 - 2026.06)
+    * `Tech Stack`: Vue.js, JavaScript, Pinia, Axios, Python, Django REST Framework, SQLite, FastAPI, Git
     * `Result`: -
 
 * **알고리즘 스터디 디스코드 봇 개발** (2026.01 - 2026.03)
-    * `Stack`: Python, Oracle server
+    * `Tech Stack`: Python, Oracle server
     * `Result`: 일일 문제선정 수작업 시간 단축(평균 2분 -> 30초)
 * **SAMSUNG SW Certificates**
     * `2026.03.06`: **SAMSUNG SW Competency Test - Grade A+ (python)** 🏆
@@ -88,13 +88,13 @@ class Developer:
   <h2>Familiar with...</h2>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,,git&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,bootstrap,django,js,vue,git&theme=light" />
   </a>
 
   <h2>Now studying...</h2>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,java,js,django,vue&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,react,typescript,springboot&theme=light" />
   </a>
 </div>
 
