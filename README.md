@@ -29,6 +29,8 @@ class Developer:
 
 🏆 **수상내역**
 * 1학기 성적최우수(1st)
+* 
+
 🎖️ **활동내역**
 * Monthly Member(1월, 3월)
 * 
@@ -42,24 +44,32 @@ class Developer:
 
 #### **[2019.03 - 2021.06] ROTC 57th | Army Officer (1st Lt.)**
 > 군 조직 내 업무 자동화
-* **Non-Fire Training Target Automation:** 비사격 훈련 타겟 자동화 프로그램 개발(Excel)
-* **Targeting simulation:** 적 위치 입력값에 따른 표적 추천 프로그램 개발(Excel)
-
-🏆 **수상내역**
-* 근무 유공 표창(2회)
-* 경계 작전 유공 표창
+* **Non-Fire Training Target Automation:** 비사격 훈련 타겟 자동화 프로그램 개발(Excel) - 🏆근무 유공 표창
+* **Targeting simulation:** 적 위치 입력값에 따른 표적 추천 프로그램 개발(Excel) - 🏆근무 유공 표창, 경계작전 유공 표창
 
 ---
 
 ### 🚀 Projects & Tech Milestones
+* **금융특화 프로젝트**(2026.08 - ing)
+    * `Role`: 팀장/백엔드
+    * `Tech Stack`: Springboot, 
+    * `Result`: 
+
+
+* **AI모의면접 & 면접스터디 통합 플랫폼**(2026.07 - 2026.08)
+    * `Role`: 프론트엔드 리더
+    * `Tech Stack`: React, TypeScript, Zustand, TanStack Query, Tailwind CSS, LiveKit
+    * `Result`: 프론트엔드 리더로서 UI 구조를 설계하고, AI 모의면접 및 실시간 화상 스터디 화면 구현
 
 * **개인 맞춤형 부동산 서비스 개발**(2026.05 - 2026.06)
-    * `Tech Stack`: Vue.js, JavaScript, Pinia, Axios, Python, Django REST Framework, SQLite, FastAPI, Git
-    * `Result`: -
+    * `Role`: Full stack
+    * `Tech Stack`: Vue.js, JavaScript, Pinia, Axios, Django REST Framework, SQLite
+    * `Result`: 사용자 예산과 선호 조건을 반영한 부동산 추천 및 대출 시뮬레이션 기능 구현
 
-* **알고리즘 스터디 디스코드 봇 개발** (2026.01 - 2026.03)
-    * `Tech Stack`: Python, Oracle server
-    * `Result`: 일일 문제선정 수작업 시간 단축(평균 2분 -> 30초)
+* **알고리즘 스터디 디스코드 봇 개발** (2026.01 - 2026.03) - Full stack
+    * `Tech Stack`: Python, discord.py, Oracle Cloud Infrastructure
+    * `Result`: 문제 선정과 풀이 확인을 자동화하여 일일 운영 시간을 평균 2분에서 30초로 단축
+    
 * **SAMSUNG SW Certificates**
     * `2026.03.06`: **SAMSUNG SW Competency Test - Grade A+ (python)** 🏆
 
@@ -71,7 +81,7 @@ class Developer:
 {
   "Certified": [],
   "In_Progress": {
-    "Data": ["SQLD", "ADsP", "빅데이터분석기사"],
+    "Data": ["SQLD"],
     "General": ["정보처리기사(필기 합격)"],
     "AI": ["AICE"]
   }
