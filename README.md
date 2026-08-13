@@ -58,7 +58,7 @@ class Developer:
 
 * **AI모의면접 & 면접스터디 통합 플랫폼**(2026.07 - 2026.08)
     * `Role`: 프론트엔드 리더
-    * `Tech Stack`: React, TypeScript, Zustand, TanStack Query, Tailwind CSS, LiveKit
+    * `Tech Stack`: React, TypeScript, Tailwind CSS, LiveKit, WebGazer
     * `Result`: 프론트엔드 리더로서 UI 구조를 설계하고, AI 모의면접 및 실시간 화상 스터디 화면 구현
 
 * **개인 맞춤형 부동산 서비스 개발**(2026.05 - 2026.06)
